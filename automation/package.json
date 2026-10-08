@@ -1,0 +1,17 @@
+{
+  "name": "socify-qa-automation",
+  "version": "1.0.0",
+  "description": "Socify Take-Home Automation Suite using Playwright",
+  "main": "playwright.config.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:report": "playwright show-report"
+  },
+  "keywords": ["qa", "automation", "playwright", "socify"],
+  "author": "Pranav Karmacharya",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}
