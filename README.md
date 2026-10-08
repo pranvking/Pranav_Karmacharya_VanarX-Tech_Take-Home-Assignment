@@ -8,7 +8,7 @@
 * **Environment:** https://apps.dev.moaaapp.com
 * **Assigned Tenant:** `tester company 7` (`qa-tester` / `forth branch`)
 * **Test Account:** `qa4@yopmail.com`
-* **Dates:** Received: Oct 6, 2026 | Completed: Oct 8, 2026 (~13 hours spent)
+* **Dates:** Received: Oct 6, 2026 | Completed: Oct 8, 2026 (~9 hours spent)
 * **OS / Devices:** Windows 11 Pro, Google Chrome (v129+), Microsoft Edge (v129+)
 * **Tools:** Chrome DevTools, Playwright, Postman
 
